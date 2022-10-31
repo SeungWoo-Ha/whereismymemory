@@ -1,0 +1,208 @@
+@charset "UTF-8";
+
+body{
+    background-color: #000000;
+    width: 100%;
+    height: 100%;
+}
+span{
+    color: #000000;
+}
+span:hover{
+    color: #ffffff;
+}
+.tag{
+    color: #ffffff;
+}
+#think1{
+    width:150px;
+    position:absolute;
+    top:10%;
+    left:35%;
+}
+#think2{
+    width:150px;
+    position:absolute;
+    top:30%;
+    left:75%;
+}
+#think3{
+    width:500px;
+    position:absolute;
+    top:33%;
+    left:15%;
+}
+#think4{
+    width:250px;
+    position:absolute;
+    top:60%;
+    left:70%;
+}
+#think5{
+    width:280px;
+    position:absolute;
+    top:70%;
+    left:60%;
+}
+#think6{
+    width:220px;
+    position:absolute;
+    top:80%;
+    left:10%;
+}
+#think7{
+    width:340px;
+    position:absolute;
+    top:10%;
+    left:63%;
+}
+#think8{
+    width:740px;
+    position:absolute;
+    top:50%;
+    left:12%;
+}
+#think9{
+    width:350px;
+    position:absolute;
+    top:65%;
+    left:25%;
+}
+#think10{
+    width:200px;
+    position:absolute;
+    top:50%;
+    left:1%;
+}
+#think11{
+    width:170px;
+    position:absolute;
+    top:10%;
+    left:50%;
+}
+#think12{
+    width:1100px;
+    position:absolute;
+    top:2%;
+    left:20%;
+}
+#think13{
+    width:350px;
+    position:absolute;
+    top:44%;
+    left:80%;
+}
+#think14{
+    width:250px;
+    position:absolute;
+    top:10%;
+    left:17%;
+}
+#think15{
+    width:300px;
+    position:absolute;
+    top:1%;
+    left:83%;
+}
+#think16{
+    width:350px;
+    position:absolute;
+    top:80%;
+    left:75%;
+}
+#think17{
+    width:370px;
+    position:absolute;
+    top:30%;
+    left:50%;
+}
+#think18{
+    width:250px;
+    position:absolute;
+    top:18%;
+    left:43%;
+}
+#think19{
+    width:350px;
+    position:absolute;
+    top:95%;
+    left:50%;
+}
+#think20{
+    width:250px;
+    position:absolute;
+    top:70%;
+    left:1%;
+}
+#think21{
+    width:200px;
+    position:absolute;
+    top:40%;
+    left:55%;
+}
+#think22{
+    width:250px;
+    position:absolute;
+    top:1%;
+    left:1%;
+}
+#think23{
+    width:180px;
+    position:absolute;
+    top:45%;
+    left:67%;
+}
+#think24{
+    width:150px;
+    position:absolute;
+    top:60%;
+    left:85%;
+}
+#think25{
+    width:250px;
+    position:absolute;
+    top:20%;
+    left:83%;
+}
+#think26{
+    width:550px;
+    position:absolute;
+    top:27%;
+    left:10%;
+}
+#think27{
+    width:200px;
+    position:absolute;
+    top:60%;
+    left:55%;
+}
+#think28{
+    width:250px;
+    position:absolute;
+    top:90%;
+    left:1%;
+}
+#think29{
+    width:300px;
+    position:absolute;
+    top:20%;
+    left:20%;
+}
+#think30{
+    width:450px;
+    position:absolute;
+    top:80%;
+    left:50%;
+}
+#think31{
+    width:800px;
+    position:absolute;
+    top:42%;
+    left:3%;
+}
+#think32{
+    width:400px;
+    position:absolute;
+    top:50%;
+    left:40%;
+}

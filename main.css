@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.tag1{
+    width:100px;
+    height:100px;
+    margin-top: 30px;
+    position:absolute;
+    top:30%;
+    left:3%;
+}
+.tag2{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:10%;
+    left: 40%;
+}
+.tag3{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:80%;
+    left: 75%;
+}
+.tag4{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top: 60%;
+    left: 10%;
+}
+.tag5{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top: 90%;
+    left: 50%;
+}
+a:link { 
+    color:black; 
+    text-decoration: none;
+}
+a:visited { 
+    color:black; 
+    text-decoration: none;
+}
+        
+
